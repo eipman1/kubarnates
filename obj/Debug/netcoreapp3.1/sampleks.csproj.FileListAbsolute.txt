@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\sampleks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\sampleks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\sampleks\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\source\repos\sampleks\obj\Debug\netcoreapp3.1\sampleks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\sampleks\obj\Debug\netcoreapp3.1\sampleks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\sampleks\obj\Debug\netcoreapp3.1\sampleks.AssemblyInfo.cs
+C:\Users\User\source\repos\sampleks\obj\Debug\netcoreapp3.1\sampleks.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\sampleks\obj\Debug\netcoreapp3.1\staticwebassets\sampleks.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\sampleks\obj\Debug\netcoreapp3.1\staticwebassets\sampleks.StaticWebAssets.xml
